@@ -1,3 +1,3 @@
-# app2_1
+# Tarea 2.1
 
-A new Flutter project.
+Proyecto de app de inicio de sesion y registro.
